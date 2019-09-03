@@ -1,3 +1,8 @@
+# react-native-http-cache
+
+[![npm version](http://img.shields.io/npm/v/@yz1311/react-native-http-cache.svg?style=flat-square)](https://npmjs.org/package/@yz1311/react-native-http-cache "View this project on npm")
+[![npm version](http://img.shields.io/npm/dm/@yz1311/react-native-http-cache.svg?style=flat-square)](https://npmjs.org/package/@yz1311/react-native-http-cache "View this project on npm")
+
 React Native http cache control for both fetch/XMLHttpRequest and ImageView
 
 - [x] iOS

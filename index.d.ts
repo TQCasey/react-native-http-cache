@@ -1,5 +1,5 @@
 declare module '@yz1311/react-native-http-cache' {
-    export function clearCache(): Promise<void>;
+    export function clearHttpCache(): Promise<void>;
 
     export function getHttpCacheSize(): Promise<number>;
 
