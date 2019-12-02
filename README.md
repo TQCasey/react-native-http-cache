@@ -11,7 +11,13 @@ React Native http cache control for both fetch/XMLHttpRequest and ImageView
 ## Installation
 
 ```sh
-$ npm install react-native-http-cache --save
+RN >=0.61
+
+$ npm install @yz1311/react-native-http-cache --save
+
+RN <0.61
+
+$ npm install @yz1311/react-native-http-cache@0.2.2 --save
 ```
 
 ## iOS: Linking in your XCode project

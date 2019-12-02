@@ -7,6 +7,7 @@
 //
 
 #import "RCTImageCache.h"
+#import <React/RCTBridgeModule.h>
 
 @interface RCTHttpCache : NSObject<RCTBridgeModule>
 
